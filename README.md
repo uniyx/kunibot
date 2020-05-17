@@ -1,6 +1,6 @@
 # kunibot
 
-Spams kahoot servers with bots
+Spams kahoot servers with bots using Selenium.  Needs a webdriver to function.
 
 Example usage:
 
